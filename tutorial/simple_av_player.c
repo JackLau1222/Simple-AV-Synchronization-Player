@@ -1,7 +1,8 @@
 /*
  * copyright (c) 2024 Jack Lau
  * 
- * This file is a tutorial about playing(decoding and rendering) video and audio through ffmpeg and SDL API 
+ * This file is a tutorial about playing(decoding and rendering) video 
+ * and audio through ffmpeg and SDL API 
  * 
  * FFmpeg version 5.1.4
  * SDL2 version 2.30.3
