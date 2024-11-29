@@ -1,4 +1,4 @@
-# Simple FFmpeg Player
+# Simple AV Synchronization Player
 
 This project is based on FFmpeg and sdl2.
 
